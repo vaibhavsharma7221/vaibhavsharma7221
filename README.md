@@ -1,5 +1,5 @@
 <h1 align="center">This is Vaibhav Sharma⚡</h1>
-<h3 align="center">ABOUT ME</h3>
+<h3>ABOUT ME</h3>
 
 - 🎓 pursuing Bachelors in CSE at Chandigarh University **.**
 
