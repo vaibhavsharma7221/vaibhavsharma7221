@@ -1,11 +1,11 @@
 <h1 align="center">This is Vaibhav Sharma⚡</h1>
 <h3>ABOUT ME</h3>
 
-- 🎓 pursuing Bachelors in CSE at Chandigarh University **.**
+- 🎓 pursuing Bachelors in CSE at Chandigarh University.
 
 - 🌱 I’m currently learning **DSA and MERN.**
 
-- 💼 Student-Coordinator at CodeChef-CU Chapter **.**
+- 💼 Student-Coordinator at CodeChef-CU Chapter.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,6 +14,12 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsharma7221&show_icons=true&theme=dark&count_private=true&card_width="50")
+
+<h3>🤝🏻Connect with Me </h3>
+<p>
+<a rel="noreferrer"href="https://www.linkedin.com/in/vaibhav-sharma-6631661b9/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
 
 
 
