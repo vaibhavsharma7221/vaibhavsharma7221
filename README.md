@@ -13,11 +13,11 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsharma7221&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsharma7221&show_icons=true&theme=dark&count_private=true&card_width=50%)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsharma7221&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsharma7221&show_icons=true)
+
+
 
 
 
